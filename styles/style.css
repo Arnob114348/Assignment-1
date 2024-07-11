@@ -39,3 +39,26 @@ nav ul li{
     border-radius: 5px;
     padding: 10px 20px;
 }
+
+.why-web-dev{
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.6);
+    margin-top: 30px;
+}
+
+.card-text{
+    width: 70%;
+}
+
+.card-img{
+    width: 30%;
+}
+
+.why-web-dev{
+    margin-top: 100px;
+}
