@@ -65,8 +65,47 @@ nav ul li{
 .my-inspiration{
     text-align: center;
     margin-top: 100px;
+    margin-right: 93px;
+    margin-left: 207px;
 }
 
 .utube{
     margin-top: 50px;
+}
+
+.my-current-target{
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 93px;
+    margin-left: 207px;
+}
+
+.my-current-target div p{
+    text-align: justify;
+}
+
+.cur-tar-card{
+    display: flex;
+    gap: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+.cur-tar-card div{
+    padding: 10px 10px;
+}
+
+.html{
+    background-color: #ff4b1e5d;
+    width: 33.33%;
+}
+
+.css{
+    background-color: #004de860;
+    width: 33.33%;
+}
+
+.javascript{
+    background-color: #ffdd0054;
+    width: 33.33%;
 }
