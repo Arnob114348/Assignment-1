@@ -109,3 +109,38 @@ nav ul li{
     background-color: #ffdd0054;
     width: 33.33%;
 }
+
+.support{
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 93px;
+    margin-left: 207px;
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 70px;
+    color: whitesmoke;
+}
+
+.feedback{
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+    gap: 10px;
+}
+
+#footer{
+    margin-top: 100px;
+    margin-right: 93px;
+    margin-left: 207px;
+}
+
+footer div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.social{
+    gap: 10px;
+}
